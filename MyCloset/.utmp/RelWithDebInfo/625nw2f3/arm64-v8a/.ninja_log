@@ -1,0 +1,10 @@
+# ninja log v5
+3	782	1733132244696600444	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a700e92491ed1cb
+1	802	1733132244717044527	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	dc2d47358da661a3
+0	806	1733132244721928106	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7e140d2723bcf69e
+3	828	1733132244745102650	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4a27d9e28f26049d
+5	914	1733132244829527355	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	145cf59595212865
+1	951	1733132244868149399	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f6c94bbf45b10390
+1	1098	1733132245016228389	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5c245e1448bad0a6
+0	1186	1733132245104662410	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	55a86f59ca3a41c8
+1186	1261	1733132245176965502	/Users/hagarplatner/Repos/MyCloset/NotchXR_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/625nw2f3/obj/arm64-v8a/libgame.so	1f0d071e900aaa06

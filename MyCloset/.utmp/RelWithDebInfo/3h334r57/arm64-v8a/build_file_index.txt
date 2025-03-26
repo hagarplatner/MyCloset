@@ -1,0 +1,2 @@
+/Users/hagarplatner/Repos/NotchXR_Project/NotchXR_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/hagarplatner/Repos/NotchXR_Project/NotchXR_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

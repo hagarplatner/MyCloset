@@ -1,0 +1,5 @@
+/Users/hagarplatner/Repos/MyCloset/MyCloset/.utmp/RelWithDebInfo/5r6j166n/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/hagarplatner/Repos/MyCloset/MyCloset/.utmp/RelWithDebInfo/5r6j166n/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/hagarplatner/Repos/MyCloset/MyCloset/.utmp/RelWithDebInfo/5r6j166n/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/hagarplatner/Repos/MyCloset/MyCloset/.utmp/RelWithDebInfo/5r6j166n/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/hagarplatner/Repos/MyCloset/MyCloset/.utmp/RelWithDebInfo/5r6j166n/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
