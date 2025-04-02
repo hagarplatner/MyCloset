@@ -5,6 +5,13 @@ The demo demonstrates the UI's interactive features, Using Clo3D, Blender & Unit
 Tested on Oculus Quest 3.
 
 
+Plugin used in Project:
+
+MetaXR
+Mixed Reality Utility Kit
+Substance in UE5
+
+
 
 
 
