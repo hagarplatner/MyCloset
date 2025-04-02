@@ -7,8 +7,8 @@ Tested on Oculus Quest 3.
 
 Plugin used in Project:
 
-MetaXR
-Mixed Reality Utility Kit
+MetaXR | 
+Mixed Reality Utility Kit | 
 Substance in UE5
 
 
