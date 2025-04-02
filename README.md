@@ -9,7 +9,7 @@ Plugin used in Project:
 
 MetaXR | 
 Mixed Reality Utility Kit | 
-Substance in UE5
+Substance materials import
 
 
 
